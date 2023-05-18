@@ -18,5 +18,5 @@ hecho por: Heidy Vanessa Hernández Garzón Y Laura Valentina Cubillos Buitrago
       1.5. El uso de un patrón no se refleja en el código
       1.6. Es difícil reutilizar la implementación de un patrón
 2. Pruebas 
-   [![testing-en-un-mundo-agile.png](https://i.postimg.cc/bvWqKdnP/testing-en-un-mundo-agile.png)](https://postimg.cc/Mc0kB6t3)
    
+   [![testing-en-un-mundo-agile.png](https://i.postimg.cc/bvWqKdnP/testing-en-un-mundo-agile.png)](https://postimg.cc/Mc0kB6t3)
