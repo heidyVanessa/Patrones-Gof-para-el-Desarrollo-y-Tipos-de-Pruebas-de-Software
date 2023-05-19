@@ -28,7 +28,7 @@ Características
       
 2. Pruebas 
    
-   
+[![Whats-App-Image-2023-05-18-at-6-46-58-PM.jpg](https://i.postimg.cc/HLM7vrvG/Whats-App-Image-2023-05-18-at-6-46-58-PM.jpg)](https://postimg.cc/4KJdmxTw) 
    
   Qué es Software Testing? 
   
