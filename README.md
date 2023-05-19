@@ -1,4 +1,5 @@
-# Patrones-Gof-para-el-Desarrollo-y-Tipos-de-Pruebas-de-Software
+# Patrones-Gof-para-el-Desarrollo-y-Tipos-de-Pruebas-de-
+
 hecho por: Heidy Vanessa Hernández Garzón Y Laura Valentina Cubillos Buitrago
 
 1. Patrones GOF
