@@ -34,45 +34,45 @@ Características
   
   Software Testing es la actividad de probar un software para verificar el funcionamiento y encontrar errores. Existen varias técnicas de prueba manual que ayudan a reducir el número de casos de prueba que se ejecutarán al tiempo que aumentan la cobertura de prueba. Ayudan a identificar condiciones de prueba que de otro modo serían difíciles de reconocer
   
-     2.1. Prueba de caja negra:      
+2.1. Prueba de caja negra:      
           
-          Se basa en los requisitos y la funcionalidad, sin considerar el diseño interno, cuya finalidad es analizar la compatibilidad entre las interfaces de cada uno de los componentes del software.
+Se basa en los requisitos y la funcionalidad, sin considerar el diseño interno, cuya finalidad es analizar la compatibilidad entre las interfaces de cada uno de los componentes del software.
           
           
           
-     2.2.  Prueba de caja blanca:
+2.2. Prueba de caja blanca:
      
-          Su objetivo es realizar pruebas que cubran la estructura interna de un sistema, por estructura interna nos referimos a código, arquitectura y flujos de trabajo.
+Su objetivo es realizar pruebas que cubran la estructura interna de un sistema, por estructura interna nos referimos a código, arquitectura y flujos de trabajo.
           
           
           
-     2.3. Prueba Alfa:
+2.3. Prueba Alfa:
      
-          Es el tipo de prueba más utilizada. Su objetivo es identificar todos los posibles problemas o defectos antes de lanzarlo al mercado o al usuario. Se lleva a cabo al final de la fase de desarrollo, pero antes de la prueba beta.
+Es el tipo de prueba más utilizada. Su objetivo es identificar todos los posibles problemas o defectos antes de lanzarlo al mercado o al usuario. Se lleva a cabo al final de la fase de desarrollo, pero antes de la prueba beta.
           
           
           
-     2.4. Prueba Beta:
+2.4. Prueba Beta:
      
-          Es un tipo formal de prueba de software que lleva a cabo el cliente. Se realiza en el entorno real antes de lanzar el producto al mercado para los usuarios finales reales. Con ella, se garantiza que no haya fallas importantes en el software y que el producto cumpla con los requisitos comerciales y las expectativas del cliente.
+Es un tipo formal de prueba de software que lleva a cabo el cliente. Se realiza en el entorno real antes de lanzar el producto al mercado para los usuarios finales reales. Con ella, se garantiza que no haya fallas importantes en el software y que el producto cumpla con los requisitos comerciales y las expectativas del cliente.
           
           
           
-      2.5. Pruebas de aceptación:
+2.5. Pruebas de aceptación:
       
-           En este caso, es el cliente quien realiza una prueba de aceptación y verifica el flujo del sistema de extremo a extremo según los requisitos comerciales. 
+En este caso, es el cliente quien realiza una prueba de aceptación y verifica el flujo del sistema de extremo a extremo según los requisitos comerciales. 
            
            
            
-      2.6. Pruebas Ad-hoc:
+2.6. Pruebas Ad-hoc:
       
-           Se realiza sobre una base Ad-hoc y su objetivo es encontrar los defectos y romper la aplicación ejecutando cualquier flujo de la aplicación o cualquier funcionalidad aleatoria.
+Se realiza sobre una base Ad-hoc y su objetivo es encontrar los defectos y romper la aplicación ejecutando cualquier flujo de la aplicación o cualquier funcionalidad aleatoria.
            
            
            
-       2.7. Pruebas de accesibilidad:
+2.7. Pruebas de accesibilidad:
        
-            Determina si el software es accesible para personas con discapacidades (sordos, daltónicos, discapacitados mentales, ciegos, ancianos y otros grupos discapacitados). 
+Determina si el software es accesible para personas con discapacidades (sordos, daltónicos, discapacitados mentales, ciegos, ancianos y otros grupos discapacitados). 
             
             
             
