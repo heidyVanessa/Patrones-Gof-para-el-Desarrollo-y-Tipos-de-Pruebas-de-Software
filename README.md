@@ -38,55 +38,55 @@ Características
           
   Se basa en los requisitos y la funcionalidad, sin considerar el diseño interno, cuya finalidad es analizar la compatibilidad entre las interfaces de cada uno de los componentes del software.
           
-          
+[![Whats-App-Image-2023-05-18-at-6-42-37-PM.jpg](https://i.postimg.cc/Wz3xNCDb/Whats-App-Image-2023-05-18-at-6-42-37-PM.jpg)](https://postimg.cc/qhP1QmX9)        
           
  2.2. Prueba de caja blanca:
      
   Su objetivo es realizar pruebas que cubran la estructura interna de un sistema, por estructura interna nos referimos a código, arquitectura y flujos de trabajo.
           
-          
+[![Whats-App-Image-2023-05-18-at-6-42-39-PM.jpg](https://i.postimg.cc/pdJSDRzL/Whats-App-Image-2023-05-18-at-6-42-39-PM.jpg)](https://postimg.cc/8FswG8Z2) 
           
  2.3. Prueba Alfa:
      
   Es el tipo de prueba más utilizada. Su objetivo es identificar todos los posibles problemas o defectos antes de lanzarlo al mercado o al usuario. Se lleva a cabo al final de la fase de desarrollo, pero antes de la prueba beta.
           
-          
+[![Whats-App-Image-2023-05-18-at-6-42-40-PM.jpg](https://i.postimg.cc/dVMNpL90/Whats-App-Image-2023-05-18-at-6-42-40-PM.jpg)](https://postimg.cc/dLB9TQpM) 
           
  2.4. Prueba Beta:
      
   Es un tipo formal de prueba de software que lleva a cabo el cliente. Se realiza en el entorno real antes de lanzar el producto al mercado para los usuarios finales reales. Con ella, se garantiza que no haya fallas importantes en el software y que el producto cumpla con los requisitos comerciales y las expectativas del cliente.
           
-          
+[![Whats-App-Image-2023-05-18-at-6-42-45-PM.jpg](https://i.postimg.cc/FsvDV2Ff/Whats-App-Image-2023-05-18-at-6-42-45-PM.jpg)](https://postimg.cc/xqsv0pzY)     
           
  2.5. Pruebas de aceptación:
       
   En este caso, es el cliente quien realiza una prueba de aceptación y verifica el flujo del sistema de extremo a extremo según los requisitos comerciales. 
            
-           
+[![Whats-App-Image-2023-05-18-at-6-42-43-PM.jpg](https://i.postimg.cc/XqkKPYNr/Whats-App-Image-2023-05-18-at-6-42-43-PM.jpg)](https://postimg.cc/64TG2wvK) 
            
  2.6. Pruebas Ad-hoc:
       
   Se realiza sobre una base Ad-hoc y su objetivo es encontrar los defectos y romper la aplicación ejecutando cualquier flujo de la aplicación o cualquier funcionalidad aleatoria.
            
-           
+[![555.png](https://i.postimg.cc/bYVwxj9g/555.png)](https://postimg.cc/dDdFFpXZ) 
            
  2.7. Pruebas de accesibilidad:
        
   Determina si el software es accesible para personas con discapacidades (sordos, daltónicos, discapacitados mentales, ciegos, ancianos y otros grupos discapacitados). 
             
-            
+[![Whats-App-Image-2023-05-18-at-6-42-48-PM.jpg](https://i.postimg.cc/JnkCZ9r6/Whats-App-Image-2023-05-18-at-6-42-48-PM.jpg)](https://postimg.cc/HcdNCv7X)            
             
  2.8. Pruebas de fondo:
        
   La prueba realizada en la base de datos (SQL Server, MySQL y Oracle, etc) se conoce como Prueba de base de datos o Prueba de fondo. Estas pruebas implican test de estructura de tabla, esquema, procedimiento almacenado, estructura de datos, etc.
             
-            
+[![Whats-App-Image-2023-05-18-at-6-43-05-PM.jpg](https://i.postimg.cc/rFJX1GTk/Whats-App-Image-2023-05-18-at-6-43-05-PM.jpg)](https://postimg.cc/hff5gdhy) 
             
  2.9. Pruebas de compatibilidad del navegador:
        
   Es un subtipo de Pruebas de compatibilidad y lo realiza el equipo de pruebas para garantizar que el software pueda ejecutarse con la combinación de diferentes navegadores y sistemas operativos.
             
-            
+[![777.png](https://i.postimg.cc/G34xJb1h/777.png)](https://postimg.cc/w3dN98vS) 
             
  2.10. Pruebas de compatibilidad con versiones anteriores:
       
@@ -98,7 +98,7 @@ Características
       
   Verifica el comportamiento de la aplicación a nivel de límite. Se realiza para verificar si existen defectos en los valores límite.
             
-            
+ [![3d0c0c34f31859fc9af2bcc8a8a380.jpg](https://i.postimg.cc/0jSmg28Y/3d0c0c34f31859fc9af2bcc8a8a380.jpg)](https://postimg.cc/xN0qMQN8)     
             
  2.12. Prueba de rama:
        
