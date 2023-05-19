@@ -13,17 +13,17 @@ hecho por: Heidy Vanessa Hernández Garzón Y Laura Valentina Cubillos Buitrago
   
   Características
   
-      ° Son soluciones concretas., no son teorías genéricas.
+       Son soluciones concretas., no son teorías genéricas.
       
-      ° Son soluciones técnicas, basadas en Programación Orientada a Objetos (POO). En ocasiones tienen más utilidad con algunos lenguajes de programación y en otras son aplicables a cualquier lenguaje.
+       Son soluciones técnicas, basadas en Programación Orientada a Objetos (POO). En ocasiones tienen más utilidad con algunos lenguajes de programación y en otras son aplicables a cualquier lenguaje.
 
-      ° Se utilizan en situaciones frecuentes. Debido a que se basan en la experiencia acumulada al resolver problemas reiterativos.
+       Se utilizan en situaciones frecuentes. Debido a que se basan en la experiencia acumulada al resolver problemas reiterativos.
 
-      ° Favorecen la reutilización de código. 
+       Favorecen la reutilización de código. 
 
-      ° El uso de un patrón no se refleja en el código.
+       El uso de un patrón no se refleja en el código.
 
-      ° Es difícil reutilizar la implementación de un patrón.
+       Es difícil reutilizar la implementación de un patrón.
       
       
 2. Pruebas 
