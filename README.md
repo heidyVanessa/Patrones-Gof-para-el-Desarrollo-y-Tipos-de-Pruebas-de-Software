@@ -104,37 +104,37 @@ Características
        
   También llamada prueba de caja blanca, se lleva a cabo durante la prueba de la unidad. El nombre en sí sugiere que el código se prueba a fondo al atravesar cada rama
              
-             
+[![Whats-App-Image-2023-05-18-at-6-43-37-PM.jpg](https://i.postimg.cc/y88dcYwL/Whats-App-Image-2023-05-18-at-6-43-37-PM.jpg)](https://postimg.cc/vcCbdM8n)           
              
  2.13. Pruebas de comparación: 
        
   Compara las fortalezas y debilidades de un producto con sus versiones anteriores u otros productos similares.
              
-             
+ [![Whats-App-Image-2023-05-18-at-6-43-41-PM.jpg](https://i.postimg.cc/htYSm88G/Whats-App-Image-2023-05-18-at-6-43-41-PM.jpg)](https://postimg.cc/Bjx99KVW)
              
  2.14. Prueba de compatibilidad:
        
   Evalúa cómo se comporta y ejecuta el software en un entorno diferente, servidores web, hardware y entorno de red.
              
-             
+[![Whats-App-Image-2023-05-18-at-6-43-51-PM.jpg](https://i.postimg.cc/RF792jk3/Whats-App-Image-2023-05-18-at-6-43-51-PM.jpg)](https://postimg.cc/ZB51dDKZ)         
              
  2.15. Pruebas unitarias:
        
   Son una forma de comprobar que un fragmento de código funciona correctamente. Es un procedimiento más de los que se llevan a cabo dentro de una metodología ágil de trabajo.
              
-             
+[![Whats-App-Image-2023-05-18-at-6-47-16-PM.jpg](https://i.postimg.cc/63XxVM8B/Whats-App-Image-2023-05-18-at-6-47-16-PM.jpg)](https://postimg.cc/R3XY4Q1Y)
              
  2.16. Prueba de componentes:
        
   Generalmente se lleva a cabo luego de las pruebas unitarias. Evalúa múltiples funcionalidades como  un solo código y su objetivo es identificar si existe algún defecto después de conectar esas múltiples funcionalidades entre sí.
              
-             
+ [![Whats-App-Image-2023-05-18-at-6-47-02-PM.jpg](https://i.postimg.cc/85DxfsY5/Whats-App-Image-2023-05-18-at-6-47-02-PM.jpg)](https://postimg.cc/wtfwSxg8)            
              
  2.17. Pruebas de extremo a extremo:
         
   Evalúa el entorno de aplicación en un contexto que simula el uso real. Puede consistir en interactuar con una base de datos, usar comunicaciones de red o interactuar con otro hardware, aplicaciones o sistemas.
               
-              
+ [![Whats-App-Image-2023-05-18-at-6-47-03-PM.jpg](https://i.postimg.cc/wTSfs7yp/Whats-App-Image-2023-05-18-at-6-47-03-PM.jpg)](https://postimg.cc/8jmB2kmK)  
               
  2.18. Particionamiento de equivalencia:
         
@@ -146,25 +146,25 @@ Características
         
   Son pruebas en tiempo real que se realizan en un escenario real o escenarios basados en la experiencia de los probadores.        
               
-              
+ [![Whats-App-Image-2023-05-18-at-6-47-38-PM.jpg](https://i.postimg.cc/d08VKkdt/Whats-App-Image-2023-05-18-at-6-47-38-PM.jpg)](https://postimg.cc/bGwhxv3K)         
               
  2.20. Pruebas exploratorias:
         
   Es una prueba informal realizada por el equipo de prueba para explorar la aplicación y buscar defectos que existan en la aplicación
         
-        
+[![Whats-App-Image-2023-05-18-at-6-47-05-PM.jpg](https://i.postimg.cc/wT7xjbJr/Whats-App-Image-2023-05-18-at-6-47-05-PM.jpg)](https://postimg.cc/fJQQHC87)
         
  2.21. Pruebas funcionales:
         
   Ignora las partes internas y se enfoca solo en la salida para verificar si la aplicación cumple con el requisito o no. Es un tipo de prueba de caja negra.
               
-              
+[![Whats-App-Image-2023-05-18-at-6-47-08-PM.jpg](https://i.postimg.cc/0j3sSPmB/Whats-App-Image-2023-05-18-at-6-47-08-PM.jpg)](https://postimg.cc/WqMCLR5G)
               
  2.22. Prueba de interfaz gráfica de usuario (GUI):
         
   Valida la GUI según el requisito comercial. Incluye el tamaño de los botones y el campo de entrada presente en la pantalla, la alineación de todo el texto, las tablas y el contenido de las tablas.
               
-              
+ [![Whats-App-Image-2023-05-18-at-6-44-27-PM.jpg](https://i.postimg.cc/k44zvLn3/Whats-App-Image-2023-05-18-at-6-44-27-PM.jpg)](https://postimg.cc/bG7mzCD3)     
               
  2.23. Prueba de gorila:
         
@@ -182,19 +182,19 @@ Características
         
   Es un enfoque ascendente para pruebas que se aplica cuando se agrega una nueva funcionalidad. Queda a cargo de programadores y probadores. 
               
-              
+        
               
  2.26. Pruebas de instalar / desintalar:
         
   Es un tipo de prueba que se aplica en procesos de instalación / desinstalación completos, parciales o de actualización en diferentes sistemas operativos en diferentes entornos de hardware o software.
               
-              
+[![Whats-App-Image-2023-05-18-at-6-43-49-PM.jpg](https://i.postimg.cc/LszL0s8j/Whats-App-Image-2023-05-18-at-6-43-49-PM.jpg)](https://postimg.cc/XZYrr4Fv)              
               
  2.27. Pruebas de integración:
         
   Es un tipo de prueba no funcional utilizada para verificar cuánta carga de trabajo máxima puede manejar un sistema sin ninguna degradación del rendimiento. Estas pruebas ayudan a encontrar la capacidad máxima del sistema bajo una carga específica y cualquier problema que cause la degradación del rendimiento del software.
               
-              
+[![Whats-App-Image-2023-05-18-at-6-43-43-PM.jpg](https://i.postimg.cc/dVgjxXmc/Whats-App-Image-2023-05-18-at-6-43-43-PM.jpg)](https://postimg.cc/QFk7Bfyf)          
               
  2.28. Monkey Testing:
        
@@ -206,7 +206,7 @@ Características
        
   Es una prueba de caja blanca en  la que se cambia el código fuente de uno de los programas y verifica si los casos de prueba existentes pueden identificar estos defectos en el sistema.
              
-             
+[![Whats-App-Image-2023-05-18-at-6-47-09-PM.jpg](https://i.postimg.cc/cCjvJqJs/Whats-App-Image-2023-05-18-at-6-47-09-PM.jpg)](https://postimg.cc/8fRpy0W3)           
              
  2.30. Pruebas negativas:
        
@@ -218,25 +218,25 @@ Características
         
   Son pruebas de carga, pruebas de tensión, seguridad, volumen, pruebas de recuperación, etc. que se realizan para garantizar si el tiempo de respuesta del software o la aplicación es lo suficientemente rápido según los requisitos del negocio.
               
-              
+[![Whats-App-Image-2023-05-18-at-6-47-25-PM.jpg](https://i.postimg.cc/28RmC8k1/Whats-App-Image-2023-05-18-at-6-47-25-PM.jpg)](https://postimg.cc/QVbvbDWD)  
               
  2.32. Pruebas de rendimiento:
         
   Son pruebas que se realizan para verificar si el sistema cumple con los requisitos de rendimiento. Para ello, se utilizan diferentes herramientas de rendimiento y carga.
               
-              
+[![Whats-App-Image-2023-05-18-at-6-47-10-PM.jpg](https://i.postimg.cc/R08yGXqW/Whats-App-Image-2023-05-18-at-6-47-10-PM.jpg)](https://postimg.cc/FfyTHbyv) 
               
  2.33. Pruebas de recuperación:
         
   Se encarga de validar qué tan bien se recupera la aplicación o el sistema de fallas o desastres. Determina si el sistema puede continuar la operación después de un desastre.
               
-              
+[![Whats-App-Image-2023-05-18-at-6-44-04-PM.jpg](https://i.postimg.cc/Wz79Rnp6/Whats-App-Image-2023-05-18-at-6-44-04-PM.jpg)](https://postimg.cc/GTHPGvyH)         
               
  2.34. Pruebas de localización:
         
   Se evalúa una versión localizada de un producto, de un servicio o de sus contenidos para asegurarse de que esté bien hecha.
               
-              
+        
               
  2.35. Prueba basada en la tabla de decisiones:
         
