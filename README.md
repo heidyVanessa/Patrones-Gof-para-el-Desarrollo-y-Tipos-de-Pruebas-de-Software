@@ -1,8 +1,8 @@
 # Patrones-Gof-para-el-Desarrollo-y-Tipos-de-Pruebas-de-
 
-hecho por: Heidy Vanessa Hernández Garzón Y Laura Valentina Cubillos Buitrago
+hecho por: Heidy Vanessa Hernández Garzón codigo: 2220231004 Y Laura Valentina Cubillos Buitrago codigo: 2220231016
 
-1. Patrones GOF
+Patrones GOF
   Los patrones de diseño tuvieron su origen a mediados de la década del noventa, a raíz de la publicación arriba nombrada, y a partir de  allí fueron ampliamente aceptados en el área de desarrollo de software tanto en empresas como en el mundo académico. 
   
   Los GoF dieron una definición precisa de lo que es un patrón de diseño y cómo debe ser usado: “descripciones de objetos que se comunican y clases que son personalizadas para resolver un problema de diseño general en un contexto particular”. Estos se encargan de las opciones de comportamiento de la aplicación, facilitando la variabilidad en el comportamiento durante le ejecución y hay siete tipos de patrones que son: Adapter, Bridge, Composite, Decorator, Façade,Flyweight y Proxy y iii).
@@ -26,7 +26,7 @@ Características
  6. Es difícil reutilizar la implementación de un patrón.
       
       
-2. Pruebas 
+Pruebas 
    
 [![Whats-App-Image-2023-05-18-at-6-46-58-PM.jpg](https://i.postimg.cc/HLM7vrvG/Whats-App-Image-2023-05-18-at-6-46-58-PM.jpg)](https://postimg.cc/4KJdmxTw) 
    
@@ -34,185 +34,185 @@ Características
   
   Software Testing es la actividad de probar un software para verificar el funcionamiento y encontrar errores. Existen varias técnicas de prueba manual que ayudan a reducir el número de casos de prueba que se ejecutarán al tiempo que aumentan la cobertura de prueba. Ayudan a identificar condiciones de prueba que de otro modo serían difíciles de reconocer
   
- 2.1. Prueba de caja negra:      
+ 1. Prueba de caja negra:      
           
   Se basa en los requisitos y la funcionalidad, sin considerar el diseño interno, cuya finalidad es analizar la compatibilidad entre las interfaces de cada uno de los componentes del software.
           
 [![Whats-App-Image-2023-05-18-at-6-42-37-PM.jpg](https://i.postimg.cc/Wz3xNCDb/Whats-App-Image-2023-05-18-at-6-42-37-PM.jpg)](https://postimg.cc/qhP1QmX9)        
           
- 2.2. Prueba de caja blanca:
+ 2. Prueba de caja blanca:
      
   Su objetivo es realizar pruebas que cubran la estructura interna de un sistema, por estructura interna nos referimos a código, arquitectura y flujos de trabajo.
           
 [![Whats-App-Image-2023-05-18-at-6-42-39-PM.jpg](https://i.postimg.cc/pdJSDRzL/Whats-App-Image-2023-05-18-at-6-42-39-PM.jpg)](https://postimg.cc/8FswG8Z2) 
           
- 2.3. Prueba Alfa:
+ 3. Prueba Alfa:
      
   Es el tipo de prueba más utilizada. Su objetivo es identificar todos los posibles problemas o defectos antes de lanzarlo al mercado o al usuario. Se lleva a cabo al final de la fase de desarrollo, pero antes de la prueba beta.
           
 [![Whats-App-Image-2023-05-18-at-6-42-40-PM.jpg](https://i.postimg.cc/dVMNpL90/Whats-App-Image-2023-05-18-at-6-42-40-PM.jpg)](https://postimg.cc/dLB9TQpM) 
           
- 2.4. Prueba Beta:
+ 4. Prueba Beta:
      
   Es un tipo formal de prueba de software que lleva a cabo el cliente. Se realiza en el entorno real antes de lanzar el producto al mercado para los usuarios finales reales. Con ella, se garantiza que no haya fallas importantes en el software y que el producto cumpla con los requisitos comerciales y las expectativas del cliente.
           
 [![Whats-App-Image-2023-05-18-at-6-42-45-PM.jpg](https://i.postimg.cc/FsvDV2Ff/Whats-App-Image-2023-05-18-at-6-42-45-PM.jpg)](https://postimg.cc/xqsv0pzY)     
           
- 2.5. Pruebas de aceptación:
+ 5. Pruebas de aceptación:
       
   En este caso, es el cliente quien realiza una prueba de aceptación y verifica el flujo del sistema de extremo a extremo según los requisitos comerciales. 
            
 [![Whats-App-Image-2023-05-18-at-6-42-43-PM.jpg](https://i.postimg.cc/XqkKPYNr/Whats-App-Image-2023-05-18-at-6-42-43-PM.jpg)](https://postimg.cc/64TG2wvK) 
            
- 2.6. Pruebas Ad-hoc:
+ 6. Pruebas Ad-hoc:
       
   Se realiza sobre una base Ad-hoc y su objetivo es encontrar los defectos y romper la aplicación ejecutando cualquier flujo de la aplicación o cualquier funcionalidad aleatoria.
            
 [![555.png](https://i.postimg.cc/bYVwxj9g/555.png)](https://postimg.cc/dDdFFpXZ) 
            
- 2.7. Pruebas de accesibilidad:
+ 7. Pruebas de accesibilidad:
        
   Determina si el software es accesible para personas con discapacidades (sordos, daltónicos, discapacitados mentales, ciegos, ancianos y otros grupos discapacitados). 
             
 [![Whats-App-Image-2023-05-18-at-6-42-48-PM.jpg](https://i.postimg.cc/JnkCZ9r6/Whats-App-Image-2023-05-18-at-6-42-48-PM.jpg)](https://postimg.cc/HcdNCv7X)            
             
- 2.8. Pruebas de fondo:
+ 8. Pruebas de fondo:
        
   La prueba realizada en la base de datos (SQL Server, MySQL y Oracle, etc) se conoce como Prueba de base de datos o Prueba de fondo. Estas pruebas implican test de estructura de tabla, esquema, procedimiento almacenado, estructura de datos, etc.
             
 [![Whats-App-Image-2023-05-18-at-6-43-05-PM.jpg](https://i.postimg.cc/rFJX1GTk/Whats-App-Image-2023-05-18-at-6-43-05-PM.jpg)](https://postimg.cc/hff5gdhy) 
             
- 2.9. Pruebas de compatibilidad del navegador:
+ 9. Pruebas de compatibilidad del navegador:
        
   Es un subtipo de Pruebas de compatibilidad y lo realiza el equipo de pruebas para garantizar que el software pueda ejecutarse con la combinación de diferentes navegadores y sistemas operativos.
             
 [![777.png](https://i.postimg.cc/G34xJb1h/777.png)](https://postimg.cc/w3dN98vS) 
             
- 2.10. Pruebas de compatibilidad con versiones anteriores:
+ 10. Pruebas de compatibilidad con versiones anteriores:
       
   Es un Test que valida si el software recientemente desarrollado o el software actualizado funciona bien con versiones anteriores del entorno o no.
             
+[![Captura.png](https://i.postimg.cc/1XsrNGtj/Captura.png)](https://postimg.cc/jw37pJyH)
             
-            
- 2.11. Prueba de valor límite:
+ 11. Prueba de valor límite:
       
   Verifica el comportamiento de la aplicación a nivel de límite. Se realiza para verificar si existen defectos en los valores límite.
             
  [![3d0c0c34f31859fc9af2bcc8a8a380.jpg](https://i.postimg.cc/0jSmg28Y/3d0c0c34f31859fc9af2bcc8a8a380.jpg)](https://postimg.cc/xN0qMQN8)     
             
- 2.12. Prueba de rama:
+ 12. Prueba de rama:
        
   También llamada prueba de caja blanca, se lleva a cabo durante la prueba de la unidad. El nombre en sí sugiere que el código se prueba a fondo al atravesar cada rama
              
 [![Whats-App-Image-2023-05-18-at-6-43-37-PM.jpg](https://i.postimg.cc/y88dcYwL/Whats-App-Image-2023-05-18-at-6-43-37-PM.jpg)](https://postimg.cc/vcCbdM8n)           
              
- 2.13. Pruebas de comparación: 
+ 13. Pruebas de comparación: 
        
   Compara las fortalezas y debilidades de un producto con sus versiones anteriores u otros productos similares.
              
  [![Whats-App-Image-2023-05-18-at-6-43-41-PM.jpg](https://i.postimg.cc/htYSm88G/Whats-App-Image-2023-05-18-at-6-43-41-PM.jpg)](https://postimg.cc/Bjx99KVW)
              
- 2.14. Prueba de compatibilidad:
+ 14. Prueba de compatibilidad:
        
   Evalúa cómo se comporta y ejecuta el software en un entorno diferente, servidores web, hardware y entorno de red.
              
 [![Whats-App-Image-2023-05-18-at-6-43-51-PM.jpg](https://i.postimg.cc/RF792jk3/Whats-App-Image-2023-05-18-at-6-43-51-PM.jpg)](https://postimg.cc/ZB51dDKZ)         
              
- 2.15. Pruebas unitarias:
+ 15. Pruebas unitarias:
        
   Son una forma de comprobar que un fragmento de código funciona correctamente. Es un procedimiento más de los que se llevan a cabo dentro de una metodología ágil de trabajo.
              
 [![Whats-App-Image-2023-05-18-at-6-47-16-PM.jpg](https://i.postimg.cc/63XxVM8B/Whats-App-Image-2023-05-18-at-6-47-16-PM.jpg)](https://postimg.cc/R3XY4Q1Y)
              
- 2.16. Prueba de componentes:
+ 16. Prueba de componentes:
        
   Generalmente se lleva a cabo luego de las pruebas unitarias. Evalúa múltiples funcionalidades como  un solo código y su objetivo es identificar si existe algún defecto después de conectar esas múltiples funcionalidades entre sí.
              
  [![Whats-App-Image-2023-05-18-at-6-47-02-PM.jpg](https://i.postimg.cc/85DxfsY5/Whats-App-Image-2023-05-18-at-6-47-02-PM.jpg)](https://postimg.cc/wtfwSxg8)            
              
- 2.17. Pruebas de extremo a extremo:
+ 17. Pruebas de extremo a extremo:
         
   Evalúa el entorno de aplicación en un contexto que simula el uso real. Puede consistir en interactuar con una base de datos, usar comunicaciones de red o interactuar con otro hardware, aplicaciones o sistemas.
               
  [![Whats-App-Image-2023-05-18-at-6-47-03-PM.jpg](https://i.postimg.cc/wTSfs7yp/Whats-App-Image-2023-05-18-at-6-47-03-PM.jpg)](https://postimg.cc/8jmB2kmK)  
               
- 2.18. Particionamiento de equivalencia:
+ 18. Particionamiento de equivalencia:
         
   Es una técnica de prueba y un tipo de prueba de caja negra. Durante esta partición de equivalencia, se selecciona un conjunto de grupos y se recogen algunos valores o números para la prueba. Dichos valores deben generar la misma salida. El objetivo de la prueba es eliminar los casos de prueba redundantes.
               
+[![Captura.png](https://i.postimg.cc/5Nmkp0Wz/Captura.png)](https://postimg.cc/mttwgTDZ)       
               
-              
- 2.19. Ejemplo de prueba:
+ 19. Ejemplo de prueba:
         
   Son pruebas en tiempo real que se realizan en un escenario real o escenarios basados en la experiencia de los probadores.        
               
  [![Whats-App-Image-2023-05-18-at-6-47-38-PM.jpg](https://i.postimg.cc/d08VKkdt/Whats-App-Image-2023-05-18-at-6-47-38-PM.jpg)](https://postimg.cc/bGwhxv3K)         
               
- 2.20. Pruebas exploratorias:
+ 20. Pruebas exploratorias:
         
   Es una prueba informal realizada por el equipo de prueba para explorar la aplicación y buscar defectos que existan en la aplicación
         
 [![Whats-App-Image-2023-05-18-at-6-47-05-PM.jpg](https://i.postimg.cc/wT7xjbJr/Whats-App-Image-2023-05-18-at-6-47-05-PM.jpg)](https://postimg.cc/fJQQHC87)
         
- 2.21. Pruebas funcionales:
+ 21. Pruebas funcionales:
         
   Ignora las partes internas y se enfoca solo en la salida para verificar si la aplicación cumple con el requisito o no. Es un tipo de prueba de caja negra.
               
 [![Whats-App-Image-2023-05-18-at-6-47-08-PM.jpg](https://i.postimg.cc/0j3sSPmB/Whats-App-Image-2023-05-18-at-6-47-08-PM.jpg)](https://postimg.cc/WqMCLR5G)
               
- 2.22. Prueba de interfaz gráfica de usuario (GUI):
+ 22. Prueba de interfaz gráfica de usuario (GUI):
         
   Valida la GUI según el requisito comercial. Incluye el tamaño de los botones y el campo de entrada presente en la pantalla, la alineación de todo el texto, las tablas y el contenido de las tablas.
               
  [![Whats-App-Image-2023-05-18-at-6-44-27-PM.jpg](https://i.postimg.cc/k44zvLn3/Whats-App-Image-2023-05-18-at-6-44-27-PM.jpg)](https://postimg.cc/bG7mzCD3)     
               
- 2.23. Prueba de gorila:
+ 23. Prueba de gorila:
         
   Aplicada por probadores y desarrolladores, la prueba de gorila o Gorilla Testing evalúa exhaustivamente cada módulo para verificar la solidez de la aplicación.
               
+[![Whats-App-Image-2023-05-19-at-9-12-11-PM.jpg](https://i.postimg.cc/VN78hgyj/Whats-App-Image-2023-05-19-at-9-12-11-PM.jpg)](https://postimg.cc/mcFJzQgD)         
               
-              
- 2.24. Prueba Happy Path:
+ 24. Prueba Happy Path:
         
   Su objetivo es probar la aplicación con éxito en un flujo positivo. No busca condiciones negativas o errores.
               
+[![Whats-App-Image-2023-05-19-at-9-07-17-PM.jpg](https://i.postimg.cc/DfLrdM34/Whats-App-Image-2023-05-19-at-9-07-17-PM.jpg)](https://postimg.cc/3Wr039R3)
               
-              
- 2.25. Prueba de integración incremental:
+ 25. Prueba de integración incremental:
         
   Es un enfoque ascendente para pruebas que se aplica cuando se agrega una nueva funcionalidad. Queda a cargo de programadores y probadores. 
               
-        
+[![Captura.png](https://i.postimg.cc/255KJf75/Captura.png)](https://postimg.cc/tsLkZwf0)
               
- 2.26. Pruebas de instalar / desintalar:
+ 26. Pruebas de instalar / desintalar:
         
   Es un tipo de prueba que se aplica en procesos de instalación / desinstalación completos, parciales o de actualización en diferentes sistemas operativos en diferentes entornos de hardware o software.
               
 [![Whats-App-Image-2023-05-18-at-6-43-49-PM.jpg](https://i.postimg.cc/LszL0s8j/Whats-App-Image-2023-05-18-at-6-43-49-PM.jpg)](https://postimg.cc/XZYrr4Fv)              
               
- 2.27. Pruebas de integración:
+ 27. Pruebas de integración:
         
   Es un tipo de prueba no funcional utilizada para verificar cuánta carga de trabajo máxima puede manejar un sistema sin ninguna degradación del rendimiento. Estas pruebas ayudan a encontrar la capacidad máxima del sistema bajo una carga específica y cualquier problema que cause la degradación del rendimiento del software.
               
 [![Whats-App-Image-2023-05-18-at-6-43-43-PM.jpg](https://i.postimg.cc/dVgjxXmc/Whats-App-Image-2023-05-18-at-6-43-43-PM.jpg)](https://postimg.cc/QFk7Bfyf)          
               
- 2.28. Monkey Testing:
+ 28. Monkey Testing:
        
   Es una prueba que supone que si un mono usa la aplicación, ingresará los valores sin ningún conocimiento o comprensión de la aplicación. De esta manera, el objetivo de Monkey Testing es verificar si una aplicación o sistema se bloquea proporcionando datos / valores de entrada aleatorios.
               
+[![Whats-App-Image-2023-05-19-at-9-11-43-PM.jpg](https://i.postimg.cc/0NvRj3vG/Whats-App-Image-2023-05-19-at-9-11-43-PM.jpg)](https://postimg.cc/BjmwwmXt)        
               
-              
- 2.29. Prueba de mutación:
+ 29. Prueba de mutación:
        
   Es una prueba de caja blanca en  la que se cambia el código fuente de uno de los programas y verifica si los casos de prueba existentes pueden identificar estos defectos en el sistema.
              
 [![Whats-App-Image-2023-05-18-at-6-47-09-PM.jpg](https://i.postimg.cc/cCjvJqJs/Whats-App-Image-2023-05-18-at-6-47-09-PM.jpg)](https://postimg.cc/8fRpy0W3)           
              
- 2.30. Pruebas negativas:
+ 30. Pruebas negativas:
        
   Su objetivo es ver si se puede “romper” el sistema. Para ello se utilizan datos incorrectos, datos no válidos o entradas.
              
-             
+   [![Whats-App-Image-2023-05-19-at-9-08-29-PM.jpg](https://i.postimg.cc/MKzQ0ZYg/Whats-App-Image-2023-05-19-at-9-08-29-PM.jpg)](https://postimg.cc/dDS3wYp9)          
              
  2.31. Pruebas no funcionales
         
@@ -236,13 +236,15 @@ Características
         
   Se evalúa una versión localizada de un producto, de un servicio o de sus contenidos para asegurarse de que esté bien hecha.
               
-        
+ [![Captura-2.png](https://i.postimg.cc/FsDb6kWj/Captura-2.png)](https://postimg.cc/HV87cnCx)
               
  2.35. Prueba basada en la tabla de decisiones:
         
   También conocida como tabla causa-efecto, es una técnica para funciones que responden a una combinación de entradas o eventos. Por ejemplo, prueba que el botón de envío esté habilitado si el usuario llena todos los campos obligatorios.
               
   Para cada función, debes crear una tabla y enumerar todos los tipos de combinaciones de entradas y sus respectivas salidas. Así, puedes identificar una condición que el tester pasa por alto. 
+  
+[![Whats-App-Image-2023-05-19-at-9-09-17-PM.jpg](https://i.postimg.cc/QNvXsfFm/Whats-App-Image-2023-05-19-at-9-09-17-PM.jpg)](https://postimg.cc/hhbF1bbQ)
               
 Sigue estos pasos para crear una tabla de decisiones:
     
