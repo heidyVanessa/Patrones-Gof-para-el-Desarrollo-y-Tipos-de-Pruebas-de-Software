@@ -214,31 +214,31 @@ Pruebas
              
    [![Whats-App-Image-2023-05-19-at-9-08-29-PM.jpg](https://i.postimg.cc/MKzQ0ZYg/Whats-App-Image-2023-05-19-at-9-08-29-PM.jpg)](https://postimg.cc/dDS3wYp9)          
              
- 2.31. Pruebas no funcionales
+ 31. Pruebas no funcionales
         
   Son pruebas de carga, pruebas de tensión, seguridad, volumen, pruebas de recuperación, etc. que se realizan para garantizar si el tiempo de respuesta del software o la aplicación es lo suficientemente rápido según los requisitos del negocio.
               
 [![Whats-App-Image-2023-05-18-at-6-47-25-PM.jpg](https://i.postimg.cc/28RmC8k1/Whats-App-Image-2023-05-18-at-6-47-25-PM.jpg)](https://postimg.cc/QVbvbDWD)  
               
- 2.32. Pruebas de rendimiento:
+ 32. Pruebas de rendimiento:
         
   Son pruebas que se realizan para verificar si el sistema cumple con los requisitos de rendimiento. Para ello, se utilizan diferentes herramientas de rendimiento y carga.
               
 [![Whats-App-Image-2023-05-18-at-6-47-10-PM.jpg](https://i.postimg.cc/R08yGXqW/Whats-App-Image-2023-05-18-at-6-47-10-PM.jpg)](https://postimg.cc/FfyTHbyv) 
               
- 2.33. Pruebas de recuperación:
+ 33. Pruebas de recuperación:
         
   Se encarga de validar qué tan bien se recupera la aplicación o el sistema de fallas o desastres. Determina si el sistema puede continuar la operación después de un desastre.
               
 [![Whats-App-Image-2023-05-18-at-6-44-04-PM.jpg](https://i.postimg.cc/Wz79Rnp6/Whats-App-Image-2023-05-18-at-6-44-04-PM.jpg)](https://postimg.cc/GTHPGvyH)         
               
- 2.34. Pruebas de localización:
+ 34. Pruebas de localización:
         
   Se evalúa una versión localizada de un producto, de un servicio o de sus contenidos para asegurarse de que esté bien hecha.
               
  [![Captura-2.png](https://i.postimg.cc/FsDb6kWj/Captura-2.png)](https://postimg.cc/HV87cnCx)
               
- 2.35. Prueba basada en la tabla de decisiones:
+ 35. Prueba basada en la tabla de decisiones:
         
   También conocida como tabla causa-efecto, es una técnica para funciones que responden a una combinación de entradas o eventos. Por ejemplo, prueba que el botón de envío esté habilitado si el usuario llena todos los campos obligatorios.
               
